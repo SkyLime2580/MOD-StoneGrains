@@ -10,9 +10,11 @@
 
 #### Edit Icon Of The Mod - 更改模组图标
 
+#### Add Creative Mod Menu - 新建创造模式物品栏
+
 #### Add Item\[stone_grain] - 新建物品\[stone_grain]
 
-#### Add English & Chinese Localization - 新建英语和简体中文汉化
+#### Add English & Chinese Localization - 新建英语和简体中文翻译
 
 ## 2020/12/06
 
