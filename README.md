@@ -6,12 +6,6 @@
 
 #### 此模组使用Fabric作为模组加载器。
 
-## MinecraftLoader - 我的世界模组加载器
-
-### This Mod Uses Fabric Loader.
-
-### 此模组使用Fabric作为模组加载器。
-
 ## Forewords - 前言
 
 #### This Mod Is Created By Two Minecraft Player (Or Maybe Noob :P), Suggestions Are Welcome!
