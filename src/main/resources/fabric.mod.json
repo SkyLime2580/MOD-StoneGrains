@@ -10,14 +10,15 @@
     "MagicalZ"
   ],
   "contact": {
-    "homepage": "",
-    "sources": "https://github.com/SkyLime2580/MOD-StoneGrains"
+    "homepage": "https://github.com/SkyLime2580/MOD-StoneGrains/releases",
+    "sources": "https://github.com/SkyLime2580/MOD-StoneGrains",
+    "issues": "https://github.com/SkyLime2580/MOD-StoneGrains/issues"
   },
 
   "license": "CC0-1.0",
   "icon": "assets/stonegrains/icon.png",
 
-  "environment": "*",
+  "environment": "client",
   "entrypoints": {
     "main": [
       "net.skymaz.stonegrains.StoneGrainsMod"
