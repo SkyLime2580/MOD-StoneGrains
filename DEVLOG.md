@@ -1,5 +1,17 @@
 # Stone Grains Mod Devlog - 石粒模组开发日志
 
+## 2020/12/09
+
+#### Add Stone Grains Wiki - 新建石粒维基百科
+
+## 2020/12/08
+
+#### Add Tooltip - 新建物品说明
+
+#### Add Stone Grains Currency \(SGC) © System - 新建石粒货币©系统
+
+#### Add CraftingRecipes\[stone_grain,money_\*] - 新建合成配方\[stone_grain,money_\*]
+
 ## 2020/12/07
 
 #### Build The Project - 构建项目

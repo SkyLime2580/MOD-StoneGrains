@@ -2,6 +2,6 @@
   "parent": "item/generated",
   "textures":
   {
-    "layer0": "stonegrains:item/stone_grain"
+    "layer0": "stonegrains:item/money_sgc0256"
   }
 }

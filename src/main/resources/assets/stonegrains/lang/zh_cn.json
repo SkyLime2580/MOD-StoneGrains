@@ -2,7 +2,16 @@
   "itemGroup.stonegrains.stonegrains": "石粒模组",
   "item.stonegrains.stone_grain": "石粒",
 
+  "item.stonegrains.money_sgc0001": "SGC© ¥1",
+  "item.stonegrains.money_sgc0004": "SGC© ¥4",
+  "item.stonegrains.money_sgc0016": "SGC© ¥16",
+  "item.stonegrains.money_sgc0064": "SGC© ¥64",
+  "item.stonegrains.money_sgc0256": "SGC© ¥256",
+  "item.stonegrains.money_sgc1024": "SGC© ¥1024",
 
 
-  "tooltip.stonegrains.stone_grain": "\u00A7e石粒?实力!"
+
+  "tooltip.stonegrains.stone_grain": "\u00A7e石粒?实力!",
+
+  "tooltip.stonegrains.money_sgc": "\u00a77SGC© 许可发行"
 }

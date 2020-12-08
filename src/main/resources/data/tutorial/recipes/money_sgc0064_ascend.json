@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients":
+    [
+        {
+            "item": "stonegrains:money_sgc0016"
+        },
+        {
+            "item": "stonegrains:money_sgc0016"
+        },
+        {
+            "item": "stonegrains:money_sgc0016"
+        },
+        {
+            "item": "stonegrains:money_sgc0016"
+        }
+
+    ],
+    "result":
+    {
+        "item": "stonegrains:money_sgc0064",
+        "count": 1
+    }
+}

@@ -5,11 +5,13 @@
 
   "name": "Stone Grains Mod",
   "description": "The Way To Own Stone Grains!",
-  "authors": [
+  "authors":
+  [
     "SkyLime2580",
     "MagicalZ"
   ],
-  "contact": {
+  "contact":
+  {
     "homepage": "https://github.com/SkyLime2580/MOD-StoneGrains/releases",
     "sources": "https://github.com/SkyLime2580/MOD-StoneGrains",
     "issues": "https://github.com/SkyLime2580/MOD-StoneGrains/issues"
@@ -19,21 +21,26 @@
   "icon": "assets/stonegrains/icon.png",
 
   "environment": "client",
-  "entrypoints": {
-    "main": [
+  "entrypoints":
+  {
+    "main":
+    [
       "net.skymaz.stonegrains.StoneGrainsMod"
     ]
   },
-  "mixins": [
+  "mixins":
+  [
     "stonegrains.mixins.json"
   ],
 
-  "depends": {
+  "depends":
+  {
     "fabricloader": ">=0.7.4",
     "fabric": "*",
     "minecraft": "1.16.4"
   },
-  "suggests": {
+  "suggests":
+  {
     "another-mod": "*"
   }
 }

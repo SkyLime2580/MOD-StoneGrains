@@ -3,12 +3,13 @@
   "minVersion": "0.8",
   "package": "net.skymaz.stonegrains.mixin",
   "compatibilityLevel": "JAVA_8",
-  "mixins": [
-  ],
-  "client": [
+  "mixins": [],
+  "client":
+  [
     "StoneGrainsMixin"
   ],
-  "injectors": {
+  "injectors":
+  {
     "defaultRequire": 1
   }
 }
