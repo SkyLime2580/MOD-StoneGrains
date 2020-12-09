@@ -1,8 +1,14 @@
 # Stone Grains Mod Devlog - 石粒模组开发日志
 
+## 2020/12/10
+
+#### Edit Stone Grains Wiki \(On Github) - 更改石粒维基百科\(在Github上)
+
 ## 2020/12/09
 
-#### Add Stone Grains Wiki - 新建石粒维基百科
+#### Create Stone Grains Wiki \(On Github) - 新建石粒维基百科\(在Github上)
+
+#### Create Stone Grains Discussion \(On Github) - 新建石粒讨论区\(在Github上)
 
 ## 2020/12/08
 
