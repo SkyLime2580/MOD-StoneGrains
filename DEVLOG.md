@@ -1,5 +1,9 @@
 # Stone Grains Mod Devlog - 石粒模组开发日志
 
+## 2020/12/12
+
+#### Update Fabric - 更新Fabric
+
 ## 2020/12/10
 
 #### Edit Stone Grains Wiki \(On Github) - 更改石粒维基百科\(在Github上)

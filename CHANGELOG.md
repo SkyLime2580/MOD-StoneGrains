@@ -1,5 +1,9 @@
 # Stone Grains Mod Changelog - 石粒模组更新日志
 
+## MC1.16.4-0.1.2 - 2020/12/12
+
+#### Update Fabric - 更新Fabric
+
 ## MC1.16.4-0.1.1 - 2020/12/08
 
 #### Second In Second - 良好的开始是成功的一半
