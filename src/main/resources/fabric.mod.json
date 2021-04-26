@@ -17,7 +17,7 @@
     "issues": "https://github.com/SkyLime2580/MOD-StoneGrains/issues"
   },
 
-  "license": "CC0-1.0",
+  "license": "CC-BY-NC-SA 4.0",
   "icon": "assets/stonegrains/icon.png",
 
   "environment": "client",
